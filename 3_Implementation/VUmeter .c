@@ -1,11 +1,4 @@
-/*
- * VU_METER_WITHOUT_USING_MICROPHONE.c
- *
- * Created: 1/24/2018 5:38:53 PM
- *  Author: BestEngineeringProject
- */ 
 
-/*
 OCDEN = [ ]
 JTAGEN = [ ]
 SPIEN = [X]
